@@ -1,0 +1,29 @@
+.psg{
+  max-width: 600px;
+  height: 120px;
+  background-image: url("../../assets/ParisSG.png");
+  background-position-x: 200px;
+  background-position-y: -10px;
+  background-repeat: no-repeat;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #254482;
+  margin-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.manchester{
+  max-width: 600px;
+  height: 120px;
+  background-image: url("../../assets/machester.png");
+  background-position-x: 350px;
+  background-position-y: -10px;
+  background-repeat: no-repeat;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #e6cb00;
+  margin-top: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}

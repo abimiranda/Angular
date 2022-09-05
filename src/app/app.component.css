@@ -1,0 +1,19 @@
+.violeta{
+  color: rebeccapurple;
+}
+
+.m-bottom{
+  margin-bottom: 15px;
+}
+
+.margen{
+  margin: 15px;
+}
+
+
+h3{
+  font-family: 'Inconsolata', monospace;
+  font-style: italic;
+  margin-left: 10px;
+  margin-top: 10px;
+}
